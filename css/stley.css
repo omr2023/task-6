@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+body{
+background-color: rgb(249, 254, 254);
+}
+
+.laft-1{
+width: 250px;
+height: 140px;
+position: absolute;
+
+background-image: url(../lmges/lift-1.jpeg);
+background-size: cover;
+animation-name: change ;
+animation-duration: 4s;
+animation-delay: s;
+animation-fill-mode: forwards;
+
+}
+@keyframes change{
+0%{
+background-image: url(../lmges/marsuds-2.jpeg);
+left: 0px;
+}
+50%{
+    background-image: url(../lmges/marsuds-2.jpeg);
+    left: 1000px;
+    }
+    100%{
+        background-image: url(../lmges/marsuds-2.jpeg);
+      left: 1000px;
+  
+        }
+}
+/* ///////////////////////////////////////////////////////////// */
+
+
+.rihget-1{
+    margin-top: 250px;
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    background-image: url(../lmges/img5\ \(2\).jpeg);
+    background-size: cover;
+    animation-name: changee ;
+    animation-duration: 4s;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+    
+    }
+    @keyframes changee{
+    0%{
+    background-image: url(../lmges/img5\ \(2\).jpeg);
+    right: 0px;
+    }
+    50%{
+        background-image: url(../lmges/img5\ \(2\).jpeg);
+        right: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/img5\ \(2\).jpeg);
+          right: 1000px;
+      
+            }
+    }
+
+/* ............................................................................................ */
+
+.laft-2{
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    margin-top: 500px;
+    background-image: url(../lmges/ss1.jpeg);
+    background-size: cover;
+    animation-name: changes ;
+    animation-duration: 4s;
+    animation-delay: 6s;
+    animation-fill-mode: forwards;
+    
+    }
+    @keyframes changes{
+    0%{
+    background-image: url(../lmges/ss1.jpeg);
+    left: 0;
+    }
+    50%{
+        background-image: url(../lmges/ss1.jpeg);
+        left: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/ss1.jpeg);
+          left: 1000px;
+      
+            }
+    }
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.rihgt2{
+    margin-top: 250px;
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    background-image: url(../lmges/lift-1.jpeg);
+    background-size: cover;
+    animation-name: changeee ;
+    animation-duration: 4s;
+    animation-delay: 9s;
+    animation-fill-mode: forwards;
+    margin-top: 750px;
+    right: 10%;
+    }
+    @keyframes changeee{
+    0%{
+    background-image: url(../lmges/marsuds-3.jpeg);
+    right: 0px;
+    }
+    50%{
+        background-image: url(../lmges/marsuds-3.jpeg);
+        right: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/marsuds-3.jpeg);
+          right: 1000px;
+    
+            }
+    }
+/* ////////////////////////////////////////////////////////////////////////////////////////////// */
+.laft-3{
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    margin-top: 1000px;
+    background-image: url(../lmges/lift-1.jpeg);
+    background-size: cover;
+    animation-name: changes ;
+    animation-duration: 4s;
+    animation-delay: 12s;
+    animation-fill-mode: forwards;
+    
+    }
+    @keyframes changes{
+    0%{
+    background-image: url(../lmges/marsuds-2.jpeg);
+    left: 0px;
+    }
+    50%{
+        background-image: url(../lmges/marsuds-2.jpeg);
+        left: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/marsuds-2.jpeg);
+          left: 1000px;
+      
+            }
+    }
+/* ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+.rihgt3{
+    margin-top: 250px;
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    background-image: url(../lmges/lift-1.jpeg);
+    background-size: cover;
+    animation-name: changeee ;
+    animation-duration: 4s;
+    animation-delay: 14s;
+    animation-fill-mode: forwards;
+    margin-top: 1250px;
+    right: 10%;
+    }
+    @keyframes changeee{
+    0%{
+    background-image: url(../lmges/marsuds-3.jpeg);
+    right: 0px;
+    }
+    50%{
+        background-image: url(../lmges/marsuds-3.jpeg);
+        right: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/marsuds-3.jpeg);
+          right: 1000px;
+    
+            }
+    }
+/* ///////////////////////////////////////////////////////////////////////////// */
+.laft-4{
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    margin-top: 1500px;
+    background-image: url(../lmges/lift-1.jpeg);
+    background-size: cover;
+    animation-name: changes ;
+    animation-duration: 4s;
+    animation-delay: 16s;
+    animation-fill-mode: forwards;
+    
+    }
+    @keyframes changes{
+    0%{
+    background-image: url(../lmges/marsuds-2.jpeg);
+    left: 0px;
+    }
+    50%{
+        background-image: url(../lmges/marsuds-2.jpeg);
+        left: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/marsuds-2.jpeg);
+          left: 1000px;
+      
+            }
+    }
+/* //////////////////////////////////////////////////////////////////////////////////////// */
+.rihgt4{
+    margin-top: 1750px;
+    width: 250px;
+    height: 140px;
+    position: absolute;
+    background-image: url(../lmges/ss1.jpeg);
+    background-size: cover;
+    animation-name: changeee ;
+    animation-duration: 4s;
+    animation-delay: 18s;
+    animation-fill-mode: forwards;
+   right: 10%;
+    }
+    @keyframes changeee{
+    0%{
+    background-image: url(../lmges/ss1.jpeg);
+    right: 0px;
+    }
+    50%{
+        background-image: url(../lmges/ss1.jpeg);
+        right: 1000px;
+        }
+        100%{
+            background-image: url(../lmges/ss1.jpeg);
+          right: 1000px;
+    
+            }
+    }
+.mohamed{
+    float: right;
+}
+
+
